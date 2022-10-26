@@ -179,7 +179,7 @@
   width: 640px;
 }
 
-.homepage .hi-im-sara-i-am-a {
+.homepage .intro {
   color: var(--black);
   font-family: var(--font-family-esteban);
   font-size: var(--font-size-m);
@@ -190,19 +190,6 @@
   margin-top: 29px;
   min-height: 448px;
   width: 1119px;
-}
-
-.homepage .i-am-a-problem-solve {
-  color: var(--black);
-  font-family: var(--font-family-esteban);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-left: 0.03px;
-  margin-top: 30px;
-  min-height: 92px;
-  width: 1117px;
 }
 
 .homepage .view-my-resume {
